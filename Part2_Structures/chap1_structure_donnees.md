@@ -2,6 +2,7 @@
 
 ## Introduction
 
+
 Nous allons voir dans ce cours comment explorer et formater les données à l'aide de Numpy et surtout Pandas que nous verrons par la suite.
 
 ## 1. Qu'est-ce qu'une donnée (définition) ?
